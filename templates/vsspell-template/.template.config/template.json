@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Peter Ritchie",
+  "classifications": [ "VSSpell", "Configuration" ],
+  "identity": "Pri.VSSpellTemplate",
+  "name": "Pri VSSpell Configuration Template",
+  "shortName": "vsspell",
+  "sourceName": "configuration",
+  "primaryOutputs": [
+    {
+      "path": "configuration.vsspell"
+    }
+  ],
+  "defaultName": "configuration"
+}
