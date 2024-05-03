@@ -1,4 +1,6 @@
 # VS Spell Template
+[![NuGet Badge](https://buildstats.info/nuget/Pri.Utility.Templates)](https://www.nuget.org/packages/Pri.Utility.Templates/)
+
 A `dotnet new` template to create a .vsspell file in the current directory.
 
 This template was created so that a solution/project may be created from the command-line that contains a .vsspell file without having to run Visual Studio to create it.
